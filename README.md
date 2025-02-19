@@ -1,4 +1,4 @@
-# Electro_WebServer
+# Server RP2350 RP2040 ESP8266 ESP332
 Se trata del uso de microcontroladores con capacidad Wifi, para el estudio de diseño WEB: [HTML](https://www.w3schools.com/html/default.asp), [CSS](https://www.w3schools.com/css/default.asp) y [JS](https://www.w3schools.com/js/default.asp) mediante la electrónica gracias a [MicroPython](https://micropython.org/) y el Framework Microdot el cuál se encuentra bien documentado inspirado en Flask pero para Microcontroladores, se ha realizado con un Microcontrolador [RP2350 + Wi-Fi b/g/n and Bluetooth via CYW43439](https://www.raspberrypi.com/products/raspberry-pi-pico-2/), luego se lo hizo compatible con [ESP8266 y ESP32](https://www.espressif.com/en/products/devkits). Por lo tanto, se pueden usar una gran variedad de microcontroladores dentro de las 2 Marcas, Raspberry Pi([RP2350 y RP2040+CYW43439](https://docs.micropython.org/en/latest/rp2/quickref.html)) o Espressif ([ESP8266](https://docs.micropython.org/en/latest/esp8266/tutorial/intro.html) y [ESP32](https://docs.micropython.org/en/latest/esp32/quickref.html)), en este último la variedad de modelos es importante: S, S2, S3, C3, C5, C6, C61.
 
 # Estructura de Archivos:
@@ -19,6 +19,4 @@ Se trata del uso de microcontroladores con capacidad Wifi, para el estudio de di
 - MicroPython ESP32 C6 [.bin](https://micropython.org/download/ESP32_GENERIC_C6/)
 - MicroPython ESP32 S2 [.bin](https://micropython.org/download/ESP32_GENERIC_S2/)
 - MicroPython ESP32 S3 [.bin](https://micropython.org/download/ESP32_GENERIC_S3/)
-
-
 
